@@ -1,7 +1,9 @@
 {
     "parent": "minecraft:recipes/root",
     "rewards": {
-      "function": "craftucore:recipes/color_glazed"
+      "recipes": [
+        "craftucore:tweak/obsidian"
+      ]
     },
     "criteria": {
       "has_bucket": {

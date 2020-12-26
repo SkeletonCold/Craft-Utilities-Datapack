@@ -1,0 +1,23 @@
+{
+    "parent": "minecraft:recipes/root",
+    "rewards": {
+      "function": "craftuhs:recipes/color_glazed"
+    },
+    "criteria": {
+      "has_terracotta": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "tag": "craftuhs:terracotta"
+            }
+          ]
+        }
+      }
+    },
+    "requirements": [
+      [
+        "has_terracotta"
+      ]
+    ]
+}

@@ -27,7 +27,7 @@
     },
     "requirements": [
       [
-        "has_concrete_powder",
+        "has_wood",
         "has_planks"
       ]
     ]

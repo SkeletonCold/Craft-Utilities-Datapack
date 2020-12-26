@@ -1,8 +1,0 @@
-{
-    "type": "minecraft:stonecutting",
-    "ingredient": {
-      "tag": "craftucore:cut_stone"
-    },
-    "result": "minecraft:chiseled_stone_bricks",
-    "count": 1
-}

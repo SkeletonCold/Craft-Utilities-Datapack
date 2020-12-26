@@ -1,0 +1,25 @@
+{
+    "parent": "minecraft:recipes/root",
+    "rewards": {
+      "recipes": [
+        "craftucore:tweak/soul_torch"
+      ]
+    },
+    "criteria": {
+      "has_soul": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "tag": "craftucore:soul_sand"
+            }
+          ]
+        }
+      }
+    },
+    "requirements": [
+      [
+        "has_soul"
+      ]
+    ]
+}
