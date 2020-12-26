@@ -1,0 +1,26 @@
+{
+    "parent": "minecraft:recipes/root",
+    "rewards": {
+      "function": "craftucore:recipes/color_glazed"
+    },
+    "criteria": {
+      "has_bucket": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "item": "minecraft:lava_bucket"
+            },
+            {
+              "item": "minecraft:water_bucket"
+            }
+          ]
+        }
+      }
+    },
+    "requirements": [
+      [
+        "has_bucket"
+      ]
+    ]
+}

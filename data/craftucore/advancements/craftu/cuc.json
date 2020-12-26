@@ -1,0 +1,31 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:crafting_table"
+      },
+      "title": {
+        "text": "Craft Utilities"
+      },
+      "description": {
+        "text": "Thanks for download the datapack!!!"
+      },
+      "frame": "task",
+      "show_toast": false,
+      "announce_to_chat": false,
+      "hidden": false,
+      "background": "minecraft:textures/block/oak_log.png"
+    },
+    "criteria": {
+      "get_crafting_table": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "item": "minecraft:crafting_table"
+        }
+      }
+    },
+    "requirements": [
+      [
+        "get_crafting_table"
+      ]
+    ]
+}

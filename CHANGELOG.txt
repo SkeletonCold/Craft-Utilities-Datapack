@@ -1,0 +1,14 @@
+APLHA-0.7.2-alpha release
+
+NOT RELEASE VERSION BELOW
+ALPHA-0.1-"Tag"test
+ALPHA-0.2-stonetoolstest(recipes use tag)
+APLHA-0.3-wooltest(add recipes about wool)
+APLHA-0.4-functionstest(the first time use mcfunctions)
+APLHA-0.5-morefunctionsadd
+APLHA-0.5.1-changelocal(changed the name[Craft-Utilities->Craft-Utilities-Core]
+APLHA-0.6-advancementstest(add advancements)
+APLHA-0.6.1-hotfix(fix the bug on code)
+APLHA-0.6.2-test(test run with ADDON)
+APLHA-0.7-colorfulupdate(add some recipes about color)
+APLHA-0.7.1-hotfix

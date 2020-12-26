@@ -1,0 +1,23 @@
+{
+    "parent": "minecraft:recipes/root",
+    "rewards": {
+      "function": "craftusaw:recipes/ice"
+    },
+    "criteria": {
+      "has_lava": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "item": "minecraft:lava_bucket"
+            }
+          ]
+        }
+      }
+    },
+    "requirements": [
+      [
+        "has_lava"
+      ]
+    ]
+}

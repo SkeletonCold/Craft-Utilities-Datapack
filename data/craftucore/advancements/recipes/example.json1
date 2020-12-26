@@ -1,0 +1,44 @@
+{
+    "parent": "minecraft:recipes/root",
+    "rewards": {
+      "recipes": [
+        "minecraft:"
+      ]
+    },
+    "criteria": {
+      "has_": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "item": "minecraft:"
+            }
+          ]
+        }
+      }
+    },
+    "requirements": [
+      [
+        "has_"
+      ]
+    ]
+  }
+{
+    "parent": "minecraft:recipes/root",
+    "rewards": {
+      "function": "craftucore:recipes/color_wool"
+    },
+    "criteria": {
+      "has_": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "item": "minecraft:wool"
+        }
+      }
+    },
+    "requirements": [
+      [
+        "has_"
+      ]
+    ]
+}

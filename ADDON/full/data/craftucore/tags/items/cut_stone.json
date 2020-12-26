@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "values": [
+      "minecraft:stone",
+      "minecraft:chiseled_stone_bricks",
+      "minecraft:stone_brick_stairs",
+      "minecraft:stone_brick_wall",
+      "minecraft:stone_bricks",
+      "minecraft:stone_stairs"
+    ]
+  }

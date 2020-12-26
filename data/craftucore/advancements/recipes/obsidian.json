@@ -1,0 +1,28 @@
+{
+    "parent": "minecraft:recipes/root",
+    "rewards": {
+      "recipes": [
+        "craftucore:tweak/obsidian"
+      ]
+    },
+    "criteria": {
+      "has_bucket": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "item": "minecraft:lava_bucket"
+            },
+            {
+              "item": "minecraft:water_bucket"
+            }
+          ]
+        }
+      }
+    },
+    "requirements": [
+      [
+        "has_bucket"
+      ]
+    ]
+}

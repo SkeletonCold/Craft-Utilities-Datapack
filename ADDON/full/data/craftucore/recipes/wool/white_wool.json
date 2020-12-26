@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "XXX",
+      "X#X",
+      "XXX"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:water_bucket"
+      },
+      "X": {
+        "tag": "craftucore:wool"
+      }
+    },
+    "result": {
+      "item": "minecraft:white_wool",
+      "count": 8
+    }
+  }

@@ -1,0 +1,52 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CIC",
+    "X#X",
+    "THT"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:"
+    },
+    "X": {
+      "item": "minecraft:"
+    },
+    "I": {
+      "item": "minecraft:"
+    },
+    "H": {
+      "item": "minecraft:"
+    },
+    "T": {
+      "item": "minecraft:"
+    },
+    "C": {
+      "item": "minecraft:"
+    }
+  },
+  "result": {
+    "item": "minecraft:",
+    "count": 1
+  }
+}
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:"
+    }
+  ],
+  "result": {
+    "item": "minecraft:",
+    "count": 1
+  }
+}
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:"
+  },
+  "result": "minecraft:",
+  "count": 1
+}

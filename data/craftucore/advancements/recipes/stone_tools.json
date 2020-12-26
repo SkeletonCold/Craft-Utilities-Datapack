@@ -1,0 +1,23 @@
+{
+    "parent": "minecraft:recipes/root",
+    "rewards": {
+      "function": "craftucore:recipes/stone_tools"
+    },
+    "criteria": {
+      "has_stone": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "tag": "craftucore:cobblestone"
+            }
+          ]
+        }
+      }
+    },
+    "requirements": [
+      [
+        "has_stone"
+      ]
+    ]
+}

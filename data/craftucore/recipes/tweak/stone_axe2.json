@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "craftucore:another",
+  "pattern": [
+    "XX",
+    "SX",
+    "S"
+  ],
+  "key": {
+    "X": {
+      "tag": "craftucore:cobblestone"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "minecraft:stone_axe",
+    "count": 1
+  }
+}

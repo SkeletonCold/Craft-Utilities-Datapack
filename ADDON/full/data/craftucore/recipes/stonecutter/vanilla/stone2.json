@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "group": "stone",
+    "ingredient": {
+      "tag": "craftucore:cut_stone"
+    },
+    "result": "minecraft:stone_brick_slab",
+    "count": 2
+}
